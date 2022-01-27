@@ -1,0 +1,31 @@
+body{
+    font-size: 18px;
+}
+.color-blue{
+    color: hsl(231, 69%, 60%);
+}
+.color-red{
+    color: hsl(0, 94%, 66%);
+}
+.bd-colored{
+    background-color: hsl(0, 94%, 66%) !important;
+}
+
+#btn-blue{
+    background-color: hsl(231, 69%, 60%) !important;
+}
+.bg-prymary{
+    background-size: 100% 50%;
+}
+:hover .bt{
+    background-color: hsl(231, 69%, 60%);
+}
+.c1{
+    background-color:  hsl(231, 69%, 60%);  
+}
+.colorw{
+    color: white;
+}
+.footer{
+    background-color: hsl(229, 31%, 21%);
+}
